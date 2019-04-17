@@ -16,6 +16,7 @@ public class TexasMule {
 		// TODO Auto-generated method stub
 		String hello="Hey Texas"; 
 		String Who="i am jophin";
+		String state ="Texas";
 	}
 }
 
