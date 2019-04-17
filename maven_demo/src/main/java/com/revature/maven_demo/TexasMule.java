@@ -14,7 +14,8 @@ public class TexasMule {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		String hello="Hey Texas"; 
+		String Who="i am jophin";
 	}
-
 }
+
